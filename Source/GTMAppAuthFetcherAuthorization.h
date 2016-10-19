@@ -16,7 +16,7 @@
         limitations under the License.
  */
 
-#import <GTMSessionFetcher/GTMSessionFetcher.h>
+#import <GTMHTTPFetcher.h>
 
 @class OIDAuthState;
 @class OIDServiceConfiguration;
